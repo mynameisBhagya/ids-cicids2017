@@ -1,0 +1,2 @@
+Model,Task,Sample Size,Accuracy,Precision,Recall,F1-score,Training Time (seconds)
+Logistic Regression,Binary Classification,100000,0.93615,0.7056451612903226,0.9625300790649708,0.8143085647811545,9.281014919281006
