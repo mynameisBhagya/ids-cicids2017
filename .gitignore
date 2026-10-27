@@ -1,7 +1,18 @@
-data/raw/
-data/processed/
-*.parquet
-*.csv
 __pycache__/
-.venv/
+*.py[cod]
 .ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Large datasets
+data/*.parquet
+data/*.csv
+
+# Generated model files
+*.joblib
+*.pkl
+
+# Temporary outputs
+*.log
