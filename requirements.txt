@@ -1,9 +1,13 @@
 pandas
+numpy
 pyarrow
 scikit-learn
+matplotlib
+seaborn
 xgboost
 imbalanced-learn
 shap
-matplotlib
-jupyter
 streamlit
+plotly
+joblib
+pytest
